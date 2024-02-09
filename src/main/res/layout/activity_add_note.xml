@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddNoteActivity"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/addNoteHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="18dp"
+        android:text="Add Note."
+        android:textColor="@color/purple"
+        android:fontFamily="@font/poppins"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/addNoteHeading"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="6dp"
+        android:src="@drawable/baseline_bookmark_24"
+        app:srcCompat="@drawable/baseline_bookmark_24"
+        tools:srcCompat="@drawable/baseline_bookmark_24" />
+
+    <EditText
+        android:id="@+id/titleEditText"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/orange_border"
+        android:hint="Enter The Title"
+        android:layout_below="@id/addNoteHeading"
+        android:maxLines="1"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:fontFamily="@font/poppins"
+        tools:ignore="LabelFor" />
+
+    <EditText
+        android:id="@+id/contentEditText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:padding="16dp"
+        android:textSize="23sp"
+        android:hint="Enter description"
+        android:fontFamily="@font/poppins"
+        android:background="@drawable/orange_border"
+        android:layout_below="@id/titleEditText"
+        android:layout_marginTop="12dp"/>
+</RelativeLayout>
