@@ -28,8 +28,9 @@ This is a simple Notes Application built with Kotlin in Android Studio. It allow
    - Long press on the note you want to delete.
    - Click on the "Delete" option.
 
-## Screenshots
-*(Include screenshots of the application UI here)*
+## Download Link 
+
+https://git-alien.itch.io/notes/download/7v0yqVgqoZX31MCmNOYpk32fUdi8Dv6kd66kp932
 
 ## Dependencies
 - Kotlin
