@@ -1,6 +1,6 @@
 **README.md**
 
-img/notes.png
+![notes](https://github.com/Vishal8700/Notes-App/assets/97828106/1698937d-fc5b-4ea4-bb3d-041cfd3a3470)
 
 # Notes Application
 
@@ -29,6 +29,12 @@ This is a simple Notes Application built with Kotlin in Android Studio. It allow
 3. **Deleting a Note:**
    - Long press on the note you want to delete.
    - Click on the "Delete" option.
+  
+## Screenshots
+![image (1)](https://github.com/Vishal8700/Notes-App/assets/97828106/8a428d66-58ff-4a82-95ea-c275462497ec)
+![image (3)](https://github.com/Vishal8700/Notes-App/assets/97828106/dd6019d8-d6d1-41cd-80db-1c4153b1709f)
+![image (2)](https://github.com/Vishal8700/Notes-App/assets/97828106/5d2aad02-3391-4290-bec1-7a6dab13aefd)
+
 
 ## Download Link 
 
