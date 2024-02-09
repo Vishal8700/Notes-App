@@ -37,8 +37,7 @@ This is a simple Notes Application built with Kotlin in Android Studio. It allow
 - SQLite Database
 
 ## Contributors
-- [Your Name]
-- [Your Email]
+- git.alien
 
 ## License
 [Insert License information]
