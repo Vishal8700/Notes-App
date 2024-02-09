@@ -1,6 +1,6 @@
 **README.md**
 
-![notes]<img src="https://github.com/Vishal8700/Notes-App/assets/97828106/1698937d-fc5b-4ea4-bb3d-041cfd3a3470" width="100">
+<img src="https://github.com/Vishal8700/Notes-App/assets/97828106/1698937d-fc5b-4ea4-bb3d-041cfd3a3470" width="100">
 
 # Notes Application
 
