@@ -40,6 +40,4 @@ This is a simple Notes Application built with Kotlin in Android Studio. It allow
 - git.alien
 
 ## License
-[Insert License information]
-
-For any queries or issues, please contact [Your Email].
+MIT License
