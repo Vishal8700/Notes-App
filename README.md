@@ -1,5 +1,7 @@
 **README.md**
 
+img/notes.png
+
 # Notes Application
 
 This is a simple Notes Application built with Kotlin in Android Studio. It allows users to add notes with a title and description, view all notes, and delete specific notes.
