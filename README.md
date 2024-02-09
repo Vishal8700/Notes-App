@@ -31,9 +31,9 @@ This is a simple Notes Application built with Kotlin in Android Studio. It allow
    - Click on the "Delete" option.
   
 ## Screenshots
-![image (1)](https://github.com/Vishal8700/Notes-App/assets/97828106/8a428d66-58ff-4a82-95ea-c275462497ec)
-![image (3)](https://github.com/Vishal8700/Notes-App/assets/97828106/dd6019d8-d6d1-41cd-80db-1c4153b1709f)
-![image (2)](https://github.com/Vishal8700/Notes-App/assets/97828106/5d2aad02-3391-4290-bec1-7a6dab13aefd)
+<img src="https://github.com/Vishal8700/Notes-App/assets/97828106/8a428d66-58ff-4a82-95ea-c275462497ec" width="300">
+<img src="https://github.com/Vishal8700/Notes-App/assets/97828106/dd6019d8-d6d1-41cd-80db-1c4153b1709f" width="300">
+<img src="https://github.com/Vishal8700/Notes-App/assets/97828106/5d2aad02-3391-4290-bec1-7a6dab13aefd" width="300">
 
 
 ## Download Link 
