@@ -38,6 +38,8 @@ This is a simple Notes Application built with Kotlin in Android Studio. It allow
 
 ## Download Link 
 
+<iframe frameborder="0" src="https://itch.io/embed/2519866?border_width=0&amp;link_color=e53b44" width="550" height="165"><a href="https://git-alien.itch.io/notes">Notes. by git_alien</a></iframe>
+
 https://git-alien.itch.io/notes/download/7v0yqVgqoZX31MCmNOYpk32fUdi8Dv6kd66kp932
 
 ## Dependencies
